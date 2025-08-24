@@ -138,7 +138,3 @@ Collections:
 * API layer for mobile app integration
 * Charts for attendance visualization
 
-
----
-
-Let me know if you'd like a PDF version of this README or if you want me to generate a `package.json` or `.env` setup for your project.
